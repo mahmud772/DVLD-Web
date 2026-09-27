@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>تسجيل الدخول</title>
+    <link rel="stylesheet" href="../Style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h2>بوابة رخص القيادة</h2>
+      <nav>
+        <ul class="nav-links">
+          <li>
+            <a class="normal-links" href="../Index.html">الرئيسية</a>
+          </li>
+          <li>
+            <a class="normal-links" href="VerifyLicense.html"
+              >التحقق من الرخصة</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main-login">
+      <div class="login-container">
+        <h2>تسجيل الدخول لبوابة المواطن</h2>
+        <form class="login-form" method="post">
+          <label for="UserName">اسم المستخدم</label>
+          <input
+            type="text"
+            id="UserName"
+            placeholder="اسم المستخدم او الرقم الوطني"
+          />
+          <label for="Password">كلمة المرور</label>
+          <input type="password" id="Password" placeholder="حروف و ارقام" />
+          <a href="Pages/forgot-password.html">هل نسيت كلمة المرور؟</a>
+          <a href="Pages/register.html">ليس لديك حساب؟ سجل الآن</a>
+          <button type="submit">تسجيل</button>
+        </form>
+      </div>
+    </main>
+    <footer class="footer">
+      <p>جميع الحقوق محفوظة &copy; 2026 - إدارة رخص القيادة والمركبات (DVLD)</p>
+    </footer>
+  </body>
+</html>

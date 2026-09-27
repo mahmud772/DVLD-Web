@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../Style.css" />
+    <title>بوابة رخص القيادة</title>
+  </head>
+  <body>
+    <header class="header">
+      <h2>بوابة رخص القيادة</h2>
+      <nav>
+        <ul class="nav-links">
+          <li>
+            <a class="normal-links" href="../Index.html">الرئيسية</a>
+          </li>
+          <li>
+            <a class="normal-links" href="VerifyLicense.html"
+              >التحقق من الرخصة</a
+            >
+          </li>
+          <li>
+            <a id="login-link" href="login.html">تسجيل الدخول</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main-verify-license">
+      <div class="verify-license-container">
+        <h2>التحقق من صلاحية رخصة القيادة</h2>
+        <p>الرجاء إدخال البيانات التالية للتحقق من حالة الرخصة في النظام.</p>
+        <form class="verify-license-form" method="post">
+          <label for="NationalID">الرقم الوطني</label>
+          <input
+            type="text"
+            id="NationalID"
+            placeholder="أدخل الرقم الوطني للتحقق"
+          />
+          <label for="LicenseNumber">رقم الرخصة</label>
+          <input
+            type="text"
+            id="LicenseNumber"
+            placeholder="أدخل رقم الرخصة للتحقق"
+          />
+          <button type="submit">تحقق</button>
+        </form>
+      </div>
+    </main>
+    <footer class="footer">
+      <p>جميع الحقوق محفوظة &copy; 2026 - إدارة رخص القيادة والمركبات (DVLD)</p>
+    </footer>
+  </body>
+</html>

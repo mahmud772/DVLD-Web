@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A1F03E-0D13-46E7-B6E4-83B0C718CAAD}|BLL\\BLL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\bll\\interfaces\\ilicenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A1F03E-0D13-46E7-B6E4-83B0C718CAAD}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ilicenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A1F03E-0D13-46E7-B6E4-83B0C718CAAD}|BLL\\BLL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\bll\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A1F03E-0D13-46E7-B6E4-83B0C718CAAD}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A1F03E-0D13-46E7-B6E4-83B0C718CAAD}|BLL\\BLL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\bll\\services\\clstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A1F03E-0D13-46E7-B6E4-83B0C718CAAD}|BLL\\BLL.csproj|solutionrelative:bll\\services\\clstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41052FB-A1A7-4865-9EC5-5A8752CA729F}|DAL\\DAL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\dal\\dtos\\clsuserauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41052FB-A1A7-4865-9EC5-5A8752CA729F}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\clsuserauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41052FB-A1A7-4865-9EC5-5A8752CA729F}|DAL\\DAL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\dal\\repositories\\clsauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41052FB-A1A7-4865-9EC5-5A8752CA729F}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\clsauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41052FB-A1A7-4865-9EC5-5A8752CA729F}|DAL\\DAL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\dal\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41052FB-A1A7-4865-9EC5-5A8752CA729F}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A8D22-4EDF-4830-BF1A-6B263121D6DD}|PL\\PL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\pl\\authorization\\userowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A8D22-4EDF-4830-BF1A-6B263121D6DD}|PL\\PL.csproj|solutionrelative:pl\\authorization\\userowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A8D22-4EDF-4830-BF1A-6B263121D6DD}|PL\\PL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\pl\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A8D22-4EDF-4830-BF1A-6B263121D6DD}|PL\\PL.csproj|solutionrelative:pl\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A8D22-4EDF-4830-BF1A-6B263121D6DD}|PL\\PL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\pl\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A8D22-4EDF-4830-BF1A-6B263121D6DD}|PL\\PL.csproj|solutionrelative:pl\\controllers\\licensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332A8D22-4EDF-4830-BF1A-6B263121D6DD}|PL\\PL.csproj|c:\\users\\m9816\\downloads\\webdvld-backend\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332A8D22-4EDF-4830-BF1A-6B263121D6DD}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILicenseService.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\BLL\\Interfaces\\ILicenseService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ILicenseService.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\BLL\\Interfaces\\ILicenseService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ILicenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:41:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\BLL\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\BLL\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:40:48.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\BLL\\Services\\clsTokenService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\clsTokenService.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\BLL\\Services\\clsTokenService.cs",
+              "RelativeToolTip": "BLL\\Services\\clsTokenService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA0wCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:39:52.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUserAuthDTO.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\DAL\\DTOs\\clsUserAuthDTO.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\clsUserAuthDTO.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\DAL\\DTOs\\clsUserAuthDTO.cs",
+              "RelativeToolTip": "DAL\\DTOs\\clsUserAuthDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:39:29.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\DAL\\Repositories\\clsAuthRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\clsAuthRepository.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\DAL\\Repositories\\clsAuthRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\clsAuthRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:37:54.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\DAL\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\DAL\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:38:14.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserOwnerOrAdminHandler.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\PL\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "RelativeDocumentMoniker": "PL\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\PL\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "RelativeToolTip": "PL\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:37:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\PL\\Program.cs",
+              "RelativeDocumentMoniker": "PL\\Program.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\PL\\Program.cs",
+              "RelativeToolTip": "PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:35:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\PL\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\PL\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PL\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:20:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LicenseController.cs",
+              "DocumentMoniker": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\PL\\Controllers\\LicenseController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\LicenseController.cs",
+              "ToolTip": "C:\\Users\\m9816\\Downloads\\WebDVLD-Backend\\PL\\Controllers\\LicenseController.cs",
+              "RelativeToolTip": "PL\\Controllers\\LicenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:19:41.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

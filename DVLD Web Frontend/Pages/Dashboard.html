@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../Style.css" />
+    <title>لوحة التحكم</title>
+  </head>
+  <body>
+    <header class="header">
+      <h2>بوابة رخص القيادة</h2>
+      <nav>
+        <ul class="nav-links">
+          <li>
+            <a class="normal-links" href="../Index.html">الرئيسية</a>
+          </li>
+          <li>
+            <a class="normal-links" href="Pages/VerifyLicense.html"
+              >التحقق من الرخصة</a
+            >
+          </li>
+          <li>
+            <a id="logout-link" href="../Index.html">تسجيل الخروج</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main-dashboard">
+      <div class="dashboard-container">
+      <aside class="sidebar">
+        <ul>
+          <li><a id="dashboard-link" href="#">لوحة القيادة</a></li>
+          <li><a href="#">رخصي</a></li>
+          <li><a href="#">تقديم طلب جديد</a></li>
+          <li><a href="#">سجل الطلبات</a></li>
+          <li><a href="#">الملف الشخصي</a></li>
+        </ul>
+      </aside>
+      <div class="dashboard-content">
+      <section class="overview-section">
+        <h2>نظرة عامة</h2>
+        <div class="overview-cards">
+          <div class="card">
+            <h4>الرخص الفعالة</h4>
+            <p>1</p>
+          </div>
+          <div class="card">
+            <h4>الطلبات قيد المراجعة</h4>
+            <p>1</p>
+          </div>
+          <div class="card">
+            <h4>المخالفات غير المسددة</h4>
+            <p>0</p>
+          </div>
+      </section>
+          <section class="recent-requests-section">
+            <h3>طلباتي الاخيرة</h3>
+            <hr>
+            <div class="recent-requests">
+              <table>
+                <thead>
+                  <tr>
+                    <th>رقم الطلب</th>
+                    <th>نوع الطلب</th>
+                    <th>تاريخ التقديم</th>
+                    <th>الحالة</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>12345</td>
+                    <td>تجديد رخصة</td>
+                    <td>2026-01-15</td>
+                    <td>قيد المراجعة</td>
+                  </tr>
+                  <tr>
+                    <td>12346</td>
+                    <td>إصدار بدل فاقد</td>
+                    <td>2026-01-10</td>
+                    <td>تمت الموافقة</td>
+                  </tr>
+                </tbody>
+              </table>
+          </section>
+          </div>
+      </div>
+    </main>
+    <footer class="footer">
+      <p>جميع الحقوق محفوظة &copy; 2026 - إدارة رخص القيادة والمركبات (DVLD)</p>
+    </footer>
+  </body>
+</html>
